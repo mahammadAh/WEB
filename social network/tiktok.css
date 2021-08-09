@@ -1,0 +1,172 @@
+body{
+	background-color: #050400;
+}
+
+main{
+	background-color: #DD104E;
+	margin: 1em 5em 0 5em;
+	opacity: 0.95;
+}
+
+header {
+	background-color: #2ED6D5;
+	margin: 1em 5em 0 5em;
+	border-radius: 20px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+	opacity: 0.9;
+	transition: all 0.3s ease;
+}
+
+header:hover {
+	background-color: black
+	opacity: 1;
+}
+
+header > div {
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	height: 15em;
+
+}
+
+header > div > h1 {
+	position: relative;
+	font-size: 60px;
+	margin: 0;
+
+}
+
+header > div > a {
+	position: relative;
+	font-size: 100px;
+	text-decoration: none;
+	margin: 10px;
+	color: black;
+}
+
+main {
+	border-radius: 10px;
+	opacity: 0.9;
+}
+#aboutTiktok > h3 {
+  position: relative;
+  text-align: center;
+  top: 10px;
+  font-size: 25px;
+}
+
+#aboutTiktok > img {
+width: 60em;
+height: 30em;
+margin: 2% 9% 0 9%;
+border: 2px solid black;
+}
+
+
+#aboutTiktok > p {
+text-align: center;
+margin: 2% 9% 0 9%;
+font-size: 18px;
+font-family: tahoma;
+
+}
+
+@media screen and (max-width:660px)
+{
+  #aboutTiktok>img {
+	display: flex;
+	flex-direction: column;	
+  align-items: flex-start;
+  margin:0;
+  width: 100%;
+  height: 10%;
+}
+}
+
+#tiktokMedia {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 3em;
+}
+
+#tiktokMedia > h1 {
+	text-align: center;
+	margin: 3em 2em 0 2em;
+	margin-left: 2em;
+}
+
+#tiktokMedia > iframe {
+	margin-right: 4em;
+}
+
+@media screen and (max-width:660px)
+{
+   #tiktokMedia {
+	display: flex;
+	flex-direction: column;	
+  align-items: flex-start;
+}
+#tiktokMedia> iframe {
+	width: 100%;
+}
+}
+
+#tiktokCreate{
+	text-align: center;
+}
+
+#tiktokCreate >h1 {
+    position: relative;
+	font-size: 40px;
+	margin: 1em;
+}
+
+
+
+#tiktokCreate > p {
+	margin: 2em;
+	font-size: 18px;
+	font-family: tahoma;
+}
+
+#tiktokCreate > p > span {
+	color: orange;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#tiktokStatistic > h1 {
+  text-align: center;
+}
+
+
+#tiktokStatistic > table {
+	width: 100%;
+}
+#tiktokStatistic > table , tr , th {
+  font-size: 20px;;
+  padding: 2px 0 2px 0;
+}
+
+#tiktokStatistic > table , tr , th , a {
+  color: white;
+  font-family: tahoma;
+}
+
+footer{
+	display: flex;
+	justify-content: safe center;
+	margin: 0 5em 0 5em;
+	height: 100px;
+	background-color:#070D13;
+}
+
+footer > h4 {
+	position: relative;
+	color: white;
+	border-bottom: 5px;
+	margin: 0;
+	line-height: 10em;
+}

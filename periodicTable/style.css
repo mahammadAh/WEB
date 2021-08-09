@@ -1,0 +1,175 @@
+html, body {
+    background: #101318;
+    text-shadow: 0 0 0.4vw currentColor margin: 0;
+    height: 110%;
+}
+
+#dark {
+    position: absolute;
+    background: #101318;
+    height: 120%;
+    width: 100%;
+    opacity: 0.7;
+    z-index: 0;
+}
+
+#tableDiv {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+td {
+    position: relative;
+    width: 52px;
+    height: 52px;
+    z-index: 0;
+    user-select: none;
+}
+
+.sElementsTd {
+    box-shadow: 0 0 6px #ec77a3;
+    border: 3px solid #ec77a3;
+}
+
+    .sElementsTd > p {
+        color: #ec77a3;
+        text-shadow: 0 0 6px #ec77a3;
+        margin: 0px;
+        padding: 0px;
+    }
+
+td :nth-child(1) {
+    font-size: 8px;
+}
+
+td :nth-child(2) {
+    font-size: 18px;
+    text-align: center;
+}
+
+td :nth-child(3) {
+    font-size: 10px;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+td :nth-child(4) {
+    font-size: 8px;
+    text-align: center;
+}
+
+.pElementsTd {
+    box-shadow: 0 0 6px #ecbe59;
+    border: 3px solid #ecbe59;
+}
+
+    .pElementsTd > p {
+        color: #ecbe59;
+        text-shadow: 0 0 6px #ecbe59;
+        margin: 0px;
+        padding: 0px;
+    }
+
+
+.dElementsTd {
+    box-shadow: 0 0 6px #4cddf3;
+    border: 3px solid #4cddf3;
+}
+
+    .dElementsTd > p {
+        color: #4cddf3;
+        text-shadow: 0 0 6px #4cddf3;
+        margin: 0px;
+        padding: 0px;
+    }
+
+.fElementsTd {
+    box-shadow: 0 0 6px #52ee61;
+    border: 3px solid #52ee61;
+}
+
+    .fElementsTd > p {
+        color: #52ee61;
+        text-shadow: 0 0 6px #52ee61;
+        margin: 0px;
+        padding: 0px;
+    }
+
+
+@keyframes moving {
+    100% {
+        transform: rotate(-360deg);
+    }
+}
+
+.orbit {
+    position: relative;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background: #101318;
+    display: none;
+}
+
+.electron {
+    position: absolute;
+    background: #101318;
+    top: 5px;
+    left: 5px;
+    height: 4px;
+    width: 4px;
+    border-radius: 50%;
+    transform-origin: 25px 25px;
+    display: none;
+}
+
+.sElementsOrbit {
+    border: 2px solid #ec77a3;
+}
+
+.sElementsElectron {
+    border: 1px solid #ec77a3;
+}
+
+.pElementsOrbit {
+    border: 2px solid #ecbe59;
+}
+
+.pElementsElectron {
+    border: 1px solid #ecbe59;
+}
+
+.dElementsOrbit {
+    border: 2px solid #4cddf3;
+}
+
+.dElementsElectron {
+    border: 1px solid #4cddf3;
+}
+
+.fElementsOrbit {
+    border: 2px solid #52ee61;
+}
+
+.fElementsElectron {
+    border: 1px solid #52ee61;
+}
+
+.sElectron {
+    animation: moving 4s infinite linear;
+}
+
+.pElectron {
+    animation: moving 6s infinite linear;
+}
+
+.dElectron {
+    animation: moving 8s infinite linear;
+}
+
+.fElectron {
+    animation: moving 10s infinite linear;
+}

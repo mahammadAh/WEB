@@ -1,0 +1,1082 @@
+[
+  {
+    "number": "1",
+    "sym": "H",
+    "name": "Hidrogen",
+    "weight": "1.008",
+    "type": "s",
+    "x": "1",
+    "y": "1"
+  },
+  {
+    "number": "2",
+    "sym": "He",
+    "name": "Helium",
+    "weight": "4.002",
+    "type": "s",
+    "x": "18",
+    "y": "1"
+  },
+  {
+    "number": "3",
+    "sym": "Li",
+    "name": "Lithium",
+    "weight": "6.940",
+    "type": "s",
+    "x": "1",
+    "y": "2"
+  },
+  {
+    "number": "4",
+    "sym": "Be",
+    "name": "Berilyum",
+    "weight": "9.012",
+    "type": "s",
+    "x": "2",
+    "y": "2"
+  },
+  {
+    "number": "5",
+    "sym": "B",
+    "name": "Boron",
+    "weight": "10.810",
+    "type": "p",
+    "x": "13",
+    "y": "2"
+  },
+  {
+    "number": "6",
+    "sym": "C",
+    "name": "Carbon",
+    "weight": "12.001",
+    "type": "p",
+    "x": "14",
+    "y": "2"
+  },
+  {
+    "number": "7",
+    "sym": "N",
+    "name": "Nitrogen",
+    "weight": "14.007",
+    "type": "p",
+    "x": "15",
+    "y": "2"
+  },
+  {
+    "number": "8",
+    "sym": "O",
+    "name": "Oxygen",
+    "weight": "15.999",
+    "type": "p",
+    "x": "16",
+    "y": "2"
+  },
+  {
+    "number": "9",
+    "sym": "F",
+    "name": "Fluorine",
+    "weight": "18.998",
+    "type": "p",
+    "x": "17",
+    "y": "2"
+  },
+  {
+    "number": "10",
+    "sym": "Ne",
+    "name": "Neon",
+    "weight": "20.180",
+    "type": "p",
+    "x": "18",
+    "y": "2"
+  },
+  {
+    "number": "11",
+    "sym": "Na",
+    "name": "Sodium",
+    "weight": "22.989",
+    "type": "s",
+    "x": "1",
+    "y": "3"
+  },
+  {
+    "number": "12",
+    "sym": "Mg",
+    "name": "Magnesium",
+    "weight": "24.305",
+    "type": "s",
+    "x": "2",
+    "y": "3"
+  },
+  {
+    "number": "13",
+    "sym": "Al",
+    "name": "Aluminum",
+    "weight": "26.982",
+    "type": "p",
+    "x": "13",
+    "y": "3"
+  },
+  {
+    "number": "14",
+    "sym": "Si",
+    "name": "Silicon",
+    "weight": "28.085",
+    "type": "p",
+    "x": "14",
+    "y": "3"
+  },
+  {
+    "number": "15",
+    "sym": "P",
+    "name": "Phosphorus",
+    "weight": "30.974",
+    "type": "p",
+    "x": "15",
+    "y": "3"
+  },
+  {
+    "number": "16",
+    "sym": "S",
+    "name": "Sulfur",
+    "weight": "32.060",
+    "type": "p",
+    "x": "16",
+    "y": "3"
+  },
+  {
+    "number": "17",
+    "sym": "Cl",
+    "name": "Chlorine",
+    "weight": "35.450",
+    "type": "p",
+    "x": "17",
+    "y": "3"
+  },
+  {
+    "number": "18",
+    "sym": "Ar",
+    "name": "Argon",
+    "weight": "39.948",
+    "type": "p",
+    "x": "18",
+    "y": "3"
+  },
+  {
+    "number": "19",
+    "sym": "K",
+    "name": "Potassium",
+    "weight": "39.098",
+    "type": "s",
+    "x": "1",
+    "y": "4"
+  },
+  {
+    "number": "20",
+    "sym": "Ca",
+    "name": "Calcium",
+    "weight": "40.078",
+    "type": "s",
+    "x": "2",
+    "y": "4"
+  },
+  {
+    "number": "21",
+    "sym": "Sc",
+    "name": "Scandium",
+    "weight": "44.956",
+    "type": "d",
+    "x": "3",
+    "y": "4"
+  },
+  {
+    "number": "22",
+    "sym": "Ti",
+    "name": "Titanium",
+    "weight": "47.867",
+    "type": "d",
+    "x": "4",
+    "y": "4"
+  },
+  {
+    "number": "23",
+    "sym": "V",
+    "name": "Vanadium",
+    "weight": "50.942",
+    "type": "d",
+    "x": "5",
+    "y": "4"
+  },
+  {
+    "number": "24",
+    "sym": "Cr",
+    "name": "Chromium",
+    "weight": "51.996",
+    "type": "d",
+    "x": "6",
+    "y": "4"
+  },
+  {
+    "number": "25",
+    "sym": "Mn",
+    "name": "Manganese",
+    "weight": "54.938",
+    "type": "d",
+    "x": "7",
+    "y": "4"
+  },
+  {
+    "number": "26",
+    "sym": "Fe",
+    "name": "Iron",
+    "weight": "55.845",
+    "type": "d",
+    "x": "8",
+    "y": "4"
+  },
+  {
+    "number": "27",
+    "sym": "Co",
+    "name": "Cobalt",
+    "weight": "58.993",
+    "type": "d",
+    "x": "9",
+    "y": "4"
+  },
+  {
+    "number": "28",
+    "sym": "Ni",
+    "name": "Nickel",
+    "weight": "58.963",
+    "type": "d",
+    "x": "10",
+    "y": "4"
+  },
+  {
+    "number": "29",
+    "sym": "Cu",
+    "name": "Copper",
+    "weight": "63.546",
+    "type": "d",
+    "x": "11",
+    "y": "4"
+  },
+  {
+    "number": "30",
+    "sym": "Zn",
+    "name": "Zinc",
+    "weight": "65.380",
+    "type": "d",
+    "x": "12",
+    "y": "4"
+  },
+  {
+    "number": "31",
+    "sym": "Ga",
+    "name": "Galium",
+    "weight": "69.723",
+    "type": "p",
+    "x": "13",
+    "y": "4"
+  },
+  {
+    "number": "32",
+    "sym": "Ge",
+    "name": "Germanium",
+    "weight": "72.630",
+    "type": "p",
+    "x": "14",
+    "y": "4"
+  },
+  {
+    "number": "33",
+    "sym": "As",
+    "name": "Arsenic",
+    "weight": "74.922",
+    "type": "p",
+    "x": "15",
+    "y": "4"
+  },
+  {
+    "number": "34",
+    "sym": "Se",
+    "name": "Selenium",
+    "weight": "78.971",
+    "type": "p",
+    "x": "16",
+    "y": "4"
+  },
+  {
+    "number": "35",
+    "sym": "Br",
+    "name": "Bromine",
+    "weight": "79.904",
+    "type": "p",
+    "x": "17",
+    "y": "4"
+  },
+  {
+    "number": "36",
+    "sym": "Kr",
+    "name": "Krypton",
+    "weight": "83.798",
+    "type": "p",
+    "x": "18",
+    "y": "4"
+  },
+  {
+    "number": "37",
+    "sym": "Rb",
+    "name": "Rubidium",
+    "weight": "85.468",
+    "type": "s",
+    "x": "1",
+    "y": "5"
+  },
+  {
+    "number": "38",
+    "sym": "Sr",
+    "name": "Stronium",
+    "weight": "87.620",
+    "type": "s",
+    "x": "2",
+    "y": "5"
+  },
+  {
+    "number": "39",
+    "sym": "Y",
+    "name": "Yttrium",
+    "weight": "88.906",
+    "type": "d",
+    "x": "3",
+    "y": "5"
+  },
+  {
+    "number": "40",
+    "sym": "Zr",
+    "name": "Zirconium",
+    "weight": "1.224",
+    "type": "d",
+    "x": "4",
+    "y": "5"
+  },
+  {
+    "number": "41",
+    "sym": "Nb",
+    "name": "Niobium",
+    "weight": "92.906",
+    "type": "d",
+    "x": "5",
+    "y": "5"
+  },
+  {
+    "number": "42",
+    "sym": "Mo",
+    "name": "Molybdenum",
+    "weight": "95.950",
+    "type": "d",
+    "x": "6",
+    "y": "5"
+  },
+  {
+    "number": "43",
+    "sym": "Tc",
+    "name": "Technetium",
+    "weight": "98.000",
+    "type": "d",
+    "x": "7",
+    "y": "5"
+  },
+  {
+    "number": "44",
+    "sym": "Ru",
+    "name": "Ruthenium",
+    "weight": "101.070",
+    "type": "d",
+    "x": "8",
+    "y": "5"
+  },
+  {
+    "number": "45",
+    "sym": "Rh",
+    "name": "Rhodium",
+    "weight": "102.905",
+    "type": "d",
+    "x": "9",
+    "y": "5"
+  },
+  {
+    "number": "46",
+    "sym": "Pd",
+    "name": "Palladium",
+    "weight": "106.420",
+    "type": "d",
+    "x": "10",
+    "y": "5"
+  },
+  {
+    "number": "47",
+    "sym": "Ag",
+    "name": "Silver",
+    "weight": "107.868",
+    "type": "d",
+    "x": "11",
+    "y": "5"
+  },
+  {
+    "number": "48",
+    "sym": "Cd",
+    "name": "Cadmium",
+    "weight": "112.414",
+    "type": "d",
+    "x": "12",
+    "y": "5"
+  },
+  {
+    "number": "49",
+    "sym": "In",
+    "name": "Indium",
+    "weight": "114.818",
+    "type": "p",
+    "x": "13",
+    "y": "5"
+  },
+  {
+    "number": "50",
+    "sym": "Sn",
+    "name": "Tin",
+    "weight": "118.710",
+    "type": "p",
+    "x": "14",
+    "y": "5"
+  },
+  {
+    "number": "51",
+    "sym": "Sb",
+    "name": "Antimony",
+    "weight": "1.224",
+    "type": "p",
+    "x": "15",
+    "y": "5"
+  },
+  {
+    "number": "52",
+    "sym": "Te",
+    "name": "Tellurium",
+    "weight": "1.224",
+    "type": "p",
+    "x": "16",
+    "y": "5"
+  },
+  {
+    "number": "53",
+    "sym": "I",
+    "name": "Iodine",
+    "weight": "126.904",
+    "type": "p",
+    "x": "17",
+    "y": "5"
+  },
+  {
+    "number": "54",
+    "sym": "Xe",
+    "name": "Xenon",
+    "weight": "131.293",
+    "type": "p",
+    "x": "18",
+    "y": "5"
+  },
+  {
+    "number": "55",
+    "sym": "Cs",
+    "name": "Caesium",
+    "weight": "132.905",
+    "type": "s",
+    "x": "1",
+    "y": "6"
+  },
+  {
+    "number": "56",
+    "sym": "Ba",
+    "name": "Barium",
+    "weight": "137.327",
+    "type": "s",
+    "x": "2",
+    "y": "6"
+  },
+  {
+    "number": "",
+    "sym": "57-71",
+    "name": "",
+    "weight": "Lanthanoids",
+    "type": "d",
+    "x": "3",
+    "y": "6"
+  },
+  {
+    "number": "72",
+    "sym": "Hf",
+    "name": "Hafnium",
+    "weight": "178.490",
+    "type": "d",
+    "x": "4",
+    "y": "6"
+  },
+  {
+    "number": "73",
+    "sym": "Ta",
+    "name": "Tantalum",
+    "weight": "180.947",
+    "type": "d",
+    "x": "5",
+    "y": "6"
+  },
+  {
+    "number": "74",
+    "sym": "W",
+    "name": "Tungsten",
+    "weight": "183.840",
+    "type": "d",
+    "x": "6",
+    "y": "6"
+  },
+  {
+    "number": "75",
+    "sym": "Re",
+    "name": "Rhenium",
+    "weight": "186.207",
+    "type": "d",
+    "x": "7",
+    "y": "6"
+  },
+  {
+    "number": "76",
+    "sym": "Os",
+    "name": "Osmium",
+    "weight": "190.230",
+    "type": "d",
+    "x": "8",
+    "y": "6"
+  },
+  {
+    "number": "77",
+    "sym": "Ir",
+    "name": "Iridium",
+    "weight": "192.217",
+    "type": "d",
+    "x": "9",
+    "y": "6"
+  },
+  {
+    "number": "78",
+    "sym": "Pt",
+    "name": "Platinum",
+    "weight": "195.084",
+    "type": "d",
+    "x": "10",
+    "y": "6"
+  },
+  {
+    "number": "79",
+    "sym": "Au",
+    "name": "Gold",
+    "weight": "107.868",
+    "type": "d",
+    "x": "11",
+    "y": "6"
+  },
+  {
+    "number": "80",
+    "sym": "Hg",
+    "name": "Mercury",
+    "weight": "200.592",
+    "type": "d",
+    "x": "12",
+    "y": "6"
+  },
+  {
+    "number": "81",
+    "sym": "Tl",
+    "name": "Thalium",
+    "weight": "204.380",
+    "type": "p",
+    "x": "13",
+    "y": "6"
+  },
+  {
+    "number": "82",
+    "sym": "Pb",
+    "name": "Lead",
+    "weight": "207.200",
+    "type": "p",
+    "x": "14",
+    "y": "6"
+  },
+  {
+    "number": "83",
+    "sym": "Bi",
+    "name": "Bismuth",
+    "weight": "208.980",
+    "type": "p",
+    "x": "15",
+    "y": "6"
+  },
+  {
+    "number": "84",
+    "sym": "Po",
+    "name": "Polonium",
+    "weight": "209.000",
+    "type": "p",
+    "x": "16",
+    "y": "6"
+  },
+  {
+    "number": "85",
+    "sym": "At",
+    "name": "Astatine",
+    "weight": "210.000",
+    "type": "p",
+    "x": "17",
+    "y": "6"
+  },
+  {
+    "number": "86",
+    "sym": "Rn",
+    "name": "Radon",
+    "weight": "222.000",
+    "type": "p",
+    "x": "18",
+    "y": "6"
+  },
+  {
+    "number": "87",
+    "sym": "Fr",
+    "name": "Francium",
+    "weight": "223.000",
+    "type": "s",
+    "x": "1",
+    "y": "7"
+  },
+  {
+    "number": "88",
+    "sym": "Ra",
+    "name": "Radium",
+    "weight": "226.000",
+    "type": "s",
+    "x": "2",
+    "y": "7"
+  },
+  {
+    "number": "",
+    "sym": "89-103",
+    "name": "",
+    "weight": "Actinoids",
+    "type": "d",
+    "x": "3",
+    "y": "7"
+  },
+  {
+    "number": "104",
+    "sym": "Rf",
+    "name": "Rutherfordium",
+    "weight": "267.000",
+    "type": "d",
+    "x": "4",
+    "y": "7"
+  },
+  {
+    "number": "105",
+    "sym": "Db",
+    "name": "Dubnium",
+    "weight": "268.000",
+    "type": "d",
+    "x": "5",
+    "y": "7"
+  },
+  {
+    "number": "106",
+    "sym": "Sg",
+    "name": "Seaborgium",
+    "weight": "268.000",
+    "type": "d",
+    "x": "6",
+    "y": "7"
+  },
+  {
+    "number": "107",
+    "sym": "Bh",
+    "name": "Bohrium",
+    "weight": "270.000",
+    "type": "d",
+    "x": "7",
+    "y": "7"
+  },
+  {
+    "number": "108",
+    "sym": "Hs",
+    "name": "Hassium",
+    "weight": "1.224",
+    "type": "d",
+    "x": "8",
+    "y": "7"
+  },
+  {
+    "number": "109",
+    "sym": "Mt",
+    "name": "Meitnerium",
+    "weight": "278.000",
+    "type": "d",
+    "x": "9",
+    "y": "7"
+  },
+  {
+    "number": "110",
+    "sym": "Ds",
+    "name": "Darmstandium",
+    "weight": "281.000",
+    "type": "d",
+    "x": "10",
+    "y": "7"
+  },
+  {
+    "number": "111",
+    "sym": "Rg",
+    "name": "Roentgenium",
+    "weight": "282.000",
+    "type": "d",
+    "x": "11",
+    "y": "7"
+  },
+  {
+    "number": "112",
+    "sym": "Cn",
+    "name": "Copernicium",
+    "weight": "285.000",
+    "type": "d",
+    "x": "12",
+    "y": "7"
+  },
+  {
+    "number": "113",
+    "sym": "Nh",
+    "name": "Nihanium",
+    "weight": "286.000",
+    "type": "p",
+    "x": "13",
+    "y": "7"
+  },
+  {
+    "number": "114",
+    "sym": "Fl",
+    "name": "Flevorium",
+    "weight": "289.000",
+    "type": "p",
+    "x": "14",
+    "y": "7"
+  },
+  {
+    "number": "115",
+    "sym": "Mc",
+    "name": "Moscovium",
+    "weight": "290.000",
+    "type": "p",
+    "x": "15",
+    "y": "7"
+  },
+  {
+    "number": "116",
+    "sym": "Lv",
+    "name": "Livemorium",
+    "weight": "293.000",
+    "type": "p",
+    "x": "16",
+    "y": "7"
+  },
+  {
+    "number": "117",
+    "sym": "Ts",
+    "name": "Tennesine",
+    "weight": "294.000",
+    "type": "p",
+    "x": "17",
+    "y": "7"
+  },
+  {
+    "number": "118",
+    "sym": "Og",
+    "name": "Oganeson",
+    "weight": "294.000",
+    "type": "p",
+    "x": "18",
+    "y": "7"
+  },
+  {
+    "number": "57",
+    "sym": "La",
+    "name": "Lanthanum",
+    "weight": "138.905",
+    "type": "f",
+    "x": "3",
+    "y": "9"
+  },
+  {
+    "number": "58",
+    "sym": "Ce",
+    "name": "Cerium",
+    "weight": "140.116",
+    "type": "f",
+    "x": "4",
+    "y": "9"
+  },
+  {
+    "number": "59",
+    "sym": "Pr",
+    "name": "Praseodymium",
+    "weight": "140.907",
+    "type": "f",
+    "x": "5",
+    "y": "9"
+  },
+  {
+    "number": "60",
+    "sym": "Nd",
+    "name": "Neodymium",
+    "weight": "144.242",
+    "type": "f",
+    "x": "6",
+    "y": "9"
+  },
+  {
+    "number": "61",
+    "sym": "Pm",
+    "name": "Promethium",
+    "weight": "145.000",
+    "type": "f",
+    "x": "7",
+    "y": "9"
+  },
+  {
+    "number": "62",
+    "sym": "Sm",
+    "name": "Samarium",
+    "weight": "150.360",
+    "type": "f",
+    "x": "8",
+    "y": "9"
+  },
+  {
+    "number": "63",
+    "sym": "Eu",
+    "name": "Europium",
+    "weight": "151.964",
+    "type": "f",
+    "x": "9",
+    "y": "9"
+  },
+  {
+    "number": "64",
+    "sym": "Gd",
+    "name": "Gadolinium",
+    "weight": "157.250",
+    "type": "f",
+    "x": "10",
+    "y": "9"
+  },
+  {
+    "number": "65",
+    "sym": "Tb",
+    "name": "Terbium",
+    "weight": "157.250",
+    "type": "f",
+    "x": "11",
+    "y": "9"
+  },
+  {
+    "number": "66",
+    "sym": "Dy",
+    "name": "Dysprosium",
+    "weight": "162.500",
+    "type": "f",
+    "x": "12",
+    "y": "9"
+  },
+  {
+    "number": "67",
+    "sym": "Ho",
+    "name": "Holmium",
+    "weight": "164.930",
+    "type": "f",
+    "x": "13",
+    "y": "9"
+  },
+  {
+    "number": "68",
+    "sym": "Er",
+    "name": "Erbium",
+    "weight": "167.259",
+    "type": "f",
+    "x": "14",
+    "y": "9"
+  },
+  {
+    "number": "69",
+    "sym": "Tm",
+    "name": "Thulium",
+    "weight": "168.934",
+    "type": "f",
+    "x": "15",
+    "y": "9"
+  },
+  {
+    "number": "70",
+    "sym": "Yb",
+    "name": "Ytterbium",
+    "weight": "173.045",
+    "type": "f",
+    "x": "16",
+    "y": "9"
+  },
+  {
+    "number": "71",
+    "sym": "Lu",
+    "name": "Lutetium",
+    "weight": "174.967",
+    "type": "f",
+    "x": "17",
+    "y": "9"
+  },
+  {
+    "number": "89",
+    "sym": "Ac",
+    "name": "Actinium",
+    "weight": "227.000",
+    "type": "f",
+    "x": "3",
+    "y": "10"
+  },
+  {
+    "number": "90",
+    "sym": "Th",
+    "name": "Thorium",
+    "weight": "232.038",
+    "type": "f",
+    "x": "4",
+    "y": "10"
+  },
+  {
+    "number": "91",
+    "sym": "Pa",
+    "name": "Protactinium",
+    "weight": "231.035",
+    "type": "f",
+    "x": "5",
+    "y": "10"
+  },
+  {
+    "number": "92",
+    "sym": "U",
+    "name": "Uranium",
+    "weight": "238.028",
+    "type": "f",
+    "x": "6",
+    "y": "10"
+  },
+  {
+    "number": "93",
+    "sym": "Np",
+    "name": "Neptunium",
+    "weight": "237.000",
+    "type": "f",
+    "x": "7",
+    "y": "10"
+  },
+  {
+    "number": "94",
+    "sym": "Pu",
+    "name": "Plutonium",
+    "weight": "244.000",
+    "type": "f",
+    "x": "8",
+    "y": "10"
+  },
+  {
+    "number": "95",
+    "sym": "Am",
+    "name": "Americium",
+    "weight": "243.000",
+    "type": "f",
+    "x": "9",
+    "y": "10"
+  },
+  {
+    "number": "96",
+    "sym": "Cm",
+    "name": "Curium",
+    "weight": "247.000",
+    "type": "f",
+    "x": "10",
+    "y": "10"
+  },
+  {
+    "number": "97",
+    "sym": "Bk",
+    "name": "Berkelium",
+    "weight": "247.000",
+    "type": "f",
+    "x": "11",
+    "y": "10"
+  },
+  {
+    "number": "98",
+    "sym": "Zr",
+    "name": "Zirconium",
+    "weight": "1.224",
+    "type": "f",
+    "x": "12",
+    "y": "10"
+  },
+  {
+    "number": "99",
+    "sym": "Cf",
+    "name": "Californium",
+    "weight": "251.000",
+    "type": "f",
+    "x": "13",
+    "y": "10"
+  },
+  {
+    "number": "100",
+    "sym": "Es",
+    "name": "Einsteinum",
+    "weight": "252.000",
+    "type": "f",
+    "x": "14",
+    "y": "10"
+  },
+  {
+    "number": "101",
+    "sym": "Md",
+    "name": "Mendelevium",
+    "weight": "258.000",
+    "type": "f",
+    "x": "15",
+    "y": "10"
+  },
+  {
+    "number": "102",
+    "sym": "No",
+    "name": "Nobelium",
+    "weight": "259.000",
+    "type": "f",
+    "x": "16",
+    "y": "10"
+  },
+  {
+    "number": "103",
+    "sym": "Lr",
+    "name": "Lawrencium",
+    "weight": "266.000",
+    "type": "f",
+    "x": "17",
+    "y": "10"
+  }
+]
